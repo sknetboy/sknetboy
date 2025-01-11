@@ -33,7 +33,7 @@ Estoy comenzando mi camino en el desarrollo **Frontend**, explorando el mundo de
 
 ## 📫 ¡Conecta conmigo!
 - **Correo**: nahuncastillo.dev@gmail.com  
-- **LinkedIn**: [Tu enlace aquí]  
-- **YouTube**: [LiterAlura Latam](https://www.youtube.com/)
+- **LinkedIn**: [https://www.linkedin.com/in/nahun-castillo]  
+- **YouTube**: (www.youtube.com/@YonDevKato)
 
 ¡Gracias por visitar mi perfil! 🌟
